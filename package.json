@@ -1,0 +1,9 @@
+{
+  "name": "projeto-ci-aula",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
